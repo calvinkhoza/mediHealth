@@ -1,6 +1,5 @@
 # 🏥 MediTrack - Healthcare Web Application
 
-![MediTrack Banner](https://via.placeholder.com/1200x400?text=MediTrack+Banner) <!-- Replace with actual banner image -->
 
 A comprehensive healthcare management system that empowers users to track symptoms, get AI health advice, and manage medical appointments - all in one place.
 
@@ -29,12 +28,15 @@ A comprehensive healthcare management system that empowers users to track sympto
 - Internet connection (for initial load)
 
 ### Installation
-```bash
+```
 # Clone the repository
 git clone https://github.com/calvinkhoza/MediTrack.git
+```
 
+```
 # Navigate to project directory
 cd MediTrack
+```
 
 # Launch application (no build required)
 open index.html  # On Mac
